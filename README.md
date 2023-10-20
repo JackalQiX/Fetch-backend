@@ -9,7 +9,7 @@
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/fetch-backend.git
+   git clone git@github.com:JackalQiX/Fetch-backend.git
 
 2. Change to the project directory:
    
